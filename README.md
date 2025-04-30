@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YooDongJun&fontSize=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YooDongJun&fontSize=55&fontAlign=70)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ehdwns9098)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongJun-1005)](https://github.com/DongJun-1005/github-readme-stats)
 <!--
