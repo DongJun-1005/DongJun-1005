@@ -1,7 +1,8 @@
 ## Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YooDongJun&fontSize=90)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle={ehdwns9098}&theme=warm)
-
+pip install -r requirements.txt
+uvicorn main:app --reload
 <!--
 **DongJun-1005/DongJun-1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
